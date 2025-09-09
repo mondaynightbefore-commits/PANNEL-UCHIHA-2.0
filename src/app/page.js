@@ -1,3 +1,8 @@
+import EmailCase from './email-case';
+
+export default function Home() {
+  return <EmailCase />;
+}
 import Image from "next/image";
 
 export default function Home() {
